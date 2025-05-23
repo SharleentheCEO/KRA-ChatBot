@@ -364,7 +364,7 @@ What is a Tax Deduction Card,"It's a document (also called a P9) given by your e
 Can I have two KRA pins,No. Every individual is allowed only one KRA PIN. Having multiple is illegal and can lead to penalties.
 How is PAYE calculated,PAYE is based on income brackets and includes personal relief. KRA provides updated tax tables each year.
 How can I change my email on iTax,"Log in to iTax, go to “Registration” → “Amend PIN Details” → update your email and submit."
-What is Withholding Tax (WHT),"WHT is tax deducted at source from specific payments like professional fees, rent, dividends, and paid to KRA."
+What is WHT,"WHT(Withholding Tax) is tax deducted at source from specific payments like professional fees, rent, dividends, and paid to KRA."
 Who pays Withholding Tax,The payer (e.g. company or employer) deducts and remits the tax to KRA on behalf of the payee.
 What happens if I don’t file my annual returns,"You will face a penalty of KSh 2,000 (individuals) or KSh 20,000 (companies), plus possible interest."
 What is the tax period in Kenya,The tax year runs from 1st January to 31st December. Returns must be filed by 30th June of the following year.
@@ -458,3 +458,168 @@ Do freight forwarders pay tax?,"Yes. Like any other business, freight forwarders
 What is a clearing agent?,A licensed professional or company authorized by KRA to handle customs declarations and clearing of goods at ports.
 Are there penalties for delayed clearance?,"Yes. Demurrage and storage fees apply, and KRA may also impose penalties for delayed documentation."
 How do I become a licensed clearing agent?,"Apply through the Kenya Revenue Authority and meet all requirements including training, certification, and annual licensing."
+,
+Who qualifies for Turnover Tax?,"Businesses with a gross annual turnover between KES 1 million and KES 25 million, excluding rental, professional, and management income."
+What is the rate for Turnover Tax?,It is charged at 1% of gross monthly sales. No deductions for expenses are allowed.
+How do I file Turnover Tax?,File and pay monthly via the iTax portal on or before the 20th of the following month.
+Are TOT taxpayers required to keep records?,"Yes, basic records such as invoices and receipts must be maintained for reference and audits."
+How do I qualify for TOT,"You qualify for TOT if: Your annual gross income is between KSh 1 million and KSh 25 million, You are not registered for VAT, You earn income from business activities like trade or services, You are a sole proprietor, partnership, or company."
+Can I pay TOT through M-Pesa,"Yes. Once you file the return on iTax, you will receive a payment slip with a PRN (Payment Reference Number) which you can use to pay via M-Pesa Paybill 572572."
+Do online influencers and content creators pay tax in Kenya?,"Yes, income from digital platforms such as YouTube, TikTok, and Instagram is taxable under Income Tax or Turnover Tax depending on revenue."
+ Digital Service Tax (DST)?,"DST was a tax charged on income from digital marketplaces, but it was replaced by income tax rules from 2023."
+How should digital freelancers file taxes?,They must declare their income via iTax and file monthly or annual returns depending on registration.
+Is M-Pesa business income taxable?,"Yes, all income — including from mobile payments — must be declared and taxed appropriately."
+Name the taxes that apply to imported goods?,"Import Duty, VAT, Excise Duty (if applicable), and the Railway Development Levy (RDL)."
+ How do I calculate customs duties in Kenya,"Customs duties are calculated based on the CIF value (Cost, Insurance, and Freight) of the imported goods. You then apply various levies including Import Duty, Excise Duty (if applicable), VAT, the Railway Development Levy (RDL), and the Import Declaration Fee (IDF)"
+What is Pre-Arrival Clearance (PAC)?,A process that allows customs documents to be submitted and processed before the goods arrive.
+Do personal imports attract tax?,Yes. All imported goods — even for personal use — may attract customs duties unless specifically exempt.
+What is the CIF value?,CIF stands for Cost + Insurance + Freight. It’s the total value of the goods including the cost of shipping and insurance to Kenya. This is the base amount used for calculating most customs duties.
+What is the Import Duty rate in Kenya?,"Import Duty varies depending on the product, but a common rate is 25% of the CIF value. Always refer to the applicable HS Code for the exact rate."
+When is Excise Duty charged?,"Excise Duty is charged on specific goods like alcohol, tobacco, and motor vehicles. The rate depends on the product category and is applied to the sum of CIF value + Import Duty."
+What is the VAT rate for imports?,VAT is currently 16% in Kenya and is calculated on CIF + Import Duty + Excise Duty (if any).
+Explain the Railway Development Levy (RDL)?,"RDL is 2% of the CIF value, charged on all imports."
+Explain the Import Declaration Fee (IDF)?,"IDF is 3.5% of the CIF value, and it applies to most imports entering Kenya."
+Can you give an example of customs duty calculation?,"Sure! If your CIF value is KES 115,000: Import Duty (25%) = 28,750, Excise Duty (10%) = 14,375, VAT (16%) = 25,100, RDL (2%) = 2,300, and IDF (3.5%) = 4,025. The total taxes and duties would be KES 74,550."
+Where can I confirm exact duty rates for my goods?,You can use the KRA Simba System or consult a licensed customs clearing agent for accurate HS Code duty rates.
+Monthly Rental Income Tax (MRI)?,"Monthly Rental Income Tax (MRI) is a tax on residential rental income below KES 15 million annually, charged at 7% of gross rent."
+How is commercial rental income taxed?,"it is taxed under Income Tax rules, allowing deduction of expenses. Returns must be filed annually."
+Is rental income taxable if paid in cash?,Yes. All rental income is taxable regardless of payment method.
+What happens if landlords fail to declare rental income?,KRA may impose penalties and conduct audits. Non-compliance may also result in prosecution.
+What does a clearing agent do?,A clearing agent is a licensed professional who handles customs clearance and documentation for goods entering or leaving Kenya.
+Is it mandatory to use a clearing agent?,"Yes, it is mandatory to use a clearing agent for all commercial imports. They must be licensed by KRA."
+Are freight forwarders taxed?,"Yes, they must file Income Tax, VAT, and other relevant taxes."
+What is EAC cross-border trade?,It refers to trade between East African Community (EAC) member countries with preferential tax treatment.
+Are there import duties on EAC goods?,"No, if the goods meet the EAC Rules of Origin criteria, there won't be import duties on them."
+What documentation is needed for EAC exports?,"EAC certificate of origin, commercial invoice, packing list, and customs declaration."
+How are goods cleared under the EAC protocol?,Through simplified customs procedures and mutual recognition across partner states.
+How do I register a business in Kenya?,"Visit the eCitizen portal, create an account, and follow the business registration steps under the Business Registration Service (BRS)."
+What types of business entities can be registered?,"Sole proprietorship, partnership, private limited company, public limited company, and NGOs."
+Is a KRA PIN required for business registration?,Yes. Both individual and business KRA PINs are needed during and after registration.
+How long does it take to register a business?,"On average, 3–5 working days if all documents are in order."
+What are the basic licenses required to operate a business in Kenya?,"Business permit (from county), health certificate, fire safety certificate, and sector-specific licenses."
+Where do I apply for a business permit?,From your local County Government office or their online portal if available.
+What is the cost of a business permit?,"Varies by county, business type, and size; typically ranges from KES 5,000 to KES 50,000."
+Are business permits and KRA registration the same?,"No. Business permits come from counties, while KRA handles tax registration and compliance."
+What are county governments responsible for in business operations?,"Issuing business permits, health inspection certificates, market fees, and enforcing county by-laws."
+The roles of the national government?,"Setting and enforcing national tax policy through KRA, handling customs, VAT, and income tax."
+Who regulates professional licenses?,"National regulatory bodies like the Medical Board, Law Society, or Engineers Board under the national government."
+Can I get all business services from one place?,"eCitizen integrates many services, but you may still need to visit county offices for permits or physical inspections."
+Do SMEs have to pay tax in Kenya?,"Yes. SMEs must file returns and pay applicable taxes such as Turnover Tax, VAT, or Income Tax."
+What tax incentives exist for SMEs?,"Reduced compliance requirements, presumptive tax (now replaced by TOT), and sector-specific exemptions."
+Can I get help filing SME tax?,"Yes you can. You can call the KRA Contact Centre at +254 20 499 9999 or 0711 099 999, email callcentre@kra.go.ke, or visit kra.go.ke.KRA also offers SME tax education programs and iTax support through Huduma Centres and online webinars."
+Are SMEs required to register for VAT?,"Only if their annual turnover exceeds KES 5 million. Below that, VAT registration is optional."
+How do I make TOT payments,"After filing your TOT return on iTax, generate a payment slip with a PRN number. You can pay via M-Pesa Paybill, banks, or other KRA approved channels."
+What is eTIMS compliance,"eTIMS means issuing electronic tax invoices. All businesses must comply. If your turnover is below KSh 5 million, buyers can issue invoices on your behalf using the Buyer Initiated Invoicing system on eCitizen."
+When do I file and pay my TOT returns,File and pay your TOT returns monthly by the 20th of the month following the tax period.
+How to register for Turnover Tax (TOT),"Log into your iTax account, go to ""Registration"" → ""Amend PIN Details,"" answer ""Yes"" to register for TOT, and submit your registration date."
+How to file SME taxes in Kenya,"To file SME taxes, first ensure you have a valid KRA PIN. Then, register for Turnover Tax (TOT) if your annual sales are between KSh 1 million and KSh 25 million and you're not VAT registered. File your TOT returns monthly on the iTax portal and pay by the 20th of the next month. Also, comply with electronic tax invoice requirements (eTIMS)"
+Do online businesses need KRA registration?,"Yes. All income earned online is taxable, and digital businesses must register for a KRA PIN."
+How do I link my digital business to KRA?,"Register your business on eCitizen, obtain a PIN for the business, and file taxes via iTax."
+Are marketplace sellers like Jumia or Instagram sellers taxed?,Yes. Revenue earned through any online platform is considered taxable income.
+What is the process for tax compliance in the digital economy?,"Register a business, maintain income records, declare all income, and file monthly or annual returns via iTax."
+What is a HS Code?,"HS Code (Harmonized System Code) is a standardized numerical method of classifying traded products. It helps in identifying goods for import/export, determining duties, and complying with regulations."
+Why is a HS Code important?,"HS Codes determine the tax rate, restrictions, and regulations for goods. Using the correct code prevents delays, penalties, or overpayment."
+Where can I find the correct HS Code for my goods?,You can search for HS Codes on the Kenya TradeNet System or consult the KRA Customs office. Make sure it matches your product description.
+What is the customs clearance process in Kenya?,"It includes filing an Import Declaration Form (IDF), pre-shipment inspection (if required), submitting documents via Kenya TradeNet, paying duties, undergoing physical inspection (if flagged), and getting release approval from KRA."
+A list of documents required for customs clearance?,"Required documents include: IDF, Commercial Invoice, Bill of Lading/Airway Bill, Packing List, Certificate of Conformity (CoC), and your KRA PIN Certificate."
+What is a bonded warehouse?,A bonded warehouse is a secure facility where imported goods are stored without paying duty until they are officially released into the market.
+Who can use bonded warehouses?,Importers who want to defer duty payment or store goods before releasing them for sale. You must be registered with KRA Customs.
+What is customs duty?,"Customs duty is a tax imposed on imports (and sometimes exports) based on the product’s HS Code, value, and applicable trade agreements."
+How do I calculate customs duty?,"Customs Duty = Customs Value × Duty Rate (%). Customs value includes product cost, shipping, and insurance."
+Can I import goods duty-free?,"Yes, in specific cases like diplomatic goods, personal effects below a threshold, or products from countries under trade agreements (e.g., EAC)."
+Withholding Tax (WHT),"Withholding Tax (WHT) is a tax deducted at source from specific payments (e.g., rent, professional fees, dividends) and remitted to KRA by the payer."
+Who is required to deduct withholding tax?,"Individuals, businesses, or government entities making specified payments like interest, dividends, or consultancy fees are required to deduct and remit WHT."
+When should withholding tax be remitted to KRA?,It must be remitted to KRA by the 20th of the following month after the deduction is made.
+How do I file a WHT return on iTax?,"Log in to iTax, go to the “Returns” tab → select “File Withholding Tax Return,” fill the form, upload it, and generate a payment slip."
+What happens if I don’t deduct or remit WHT?,"You may face penalties, interest, and legal consequences for non-compliance with the withholding tax requirements."
+What is a WHT certificate?,A Withholding Tax Certificate is proof that WHT has been deducted and remitted to KRA on behalf of the payee. It’s available on the iTax portal.
+Where can I download my Withholding Tax Certificate?,Log in to iTax → Select “Certificate” → Click on “Withholding Tax Certificate” → Enter the period and download.
+What is the iTax portal used for?,"iTax is KRA’s online platform for filing tax returns, registering PINs, applying for tax compliance certificates, making payments, and updating taxpayer details."
+Can I update my details on iTax?,"Yes. Log in and go to “Registration” → “Amend PIN Details” → Update your business info, address, obligations, or bank details."
+How can on reset their iTax password?,"On the iTax login page, click “Forgot Password,” enter your KRA PIN, and a reset link will be sent to your email or phone."
+Why was my TCC application rejected,"It may be rejected due to pending returns, unpaid taxes, or inconsistent records. You can check the rejection reason on iTax."
+What is a P9 Form?,"A P9 Form is a payroll summary showing employee earnings, deductions, and taxes for each month. It’s used when filing PAYE returns."
+Can I file PAYE returns if I have no employees?,"Yes, but you must file a NIL return to avoid penalties."
+Tax Compliance Certificate (TCC)?,"A TCC is an official KRA document confirming that a taxpayer has met all tax obligations. It’s required for government tenders, job applications, and permits."
+How can one apply for a Tax Compliance Certificate?,Log in to iTax → Click “Certificates” → Select “Apply for Tax Compliance Certificate” → Fill the form and submit.
+How long does it take to get a TCC?,"If your records are in good standing, the TCC is issued within 5 working days via your iTax account."
+Why was my TCC application rejected?,"It may be rejected due to pending returns, unpaid taxes, or inconsistent records. You can check the rejection reason on iTax."
+What is Corporate Tax?,Corporate Tax is tax on business profits. It applies to limited companies and partnerships operating in Kenya.
+What is the Corporate Tax rate in Kenya?,The standard rate is 30% for resident companies and 37.5% for non-resident companies with a permanent establishment in Kenya.
+When do companies file Corporate Tax returns?,"Annually, within six months after the end of the company’s financial year. Interim payments (Installment Tax) are also required."
+How do I file Corporate Tax on iTax?,"Log in to iTax → Go to “Returns” → Select “Income Tax Company” → Download and fill the Excel return form, validate it, and upload."
+How do I chat with a KRA agent?,Call us on : +254 20 4 999 999 or +254 711 099 999; Email us on callcentre@kra.go.ke or click the button below to ask us a question. You can also visit any of our physical locations countrywide.
+"How much does KRA deduct from 40,000 salary","If you make KSh 40,000 a year living in Kenya, you will be taxed KSh 4,900. That means that your net pay will be KSh 35,100 per year, or KSh 2,925 per month. Your average tax rate is 12.3% and your marginal tax rate is 10.0%."
+What are the core values of KRA,Vision Core Values : Trustworthy Ethical • Competent • Helpful Building Trust through Facilitation so as to foster Compliance with Tax and Customs Legislation. A Globally Trusted Revenue Agency Facilitating Tax and Customs Compliance.
+What do I do if my Pin is locked,All blocked password are reset automatically within 24 hours. Alternatively the taxpayer is can send this PIN to KRA to be unlocked reset through: Email Callcentre@kra.go.ke and DTDOnlineSupport@kra.go.ke or Call 020 2390919 and 020 2391099 and 0771628105 or visit the nearest KRA office
+Who is the CEO of KRA,Humphrey Wattanga Mulongo is the Commissioner General (CEO) of KRA. He was appointed in August 2023.
+Which ministry is KRA under,KRA operates under the National Treasury and Economic Planning Ministry of Kenya.
+What are the four types of taxes in Kenya,"Income tax, Value Added Tax(VAT), Customs & Excise Duty, Miscellaneous fees &levies."
+Who pays taxes to KRA in Kenya,"Employed individuals, Self-employed/business owners, Corporations, Consumers, Importers/exporters, Landlords, Professionals & contractors."
+Who is exempted from paying tax in Kenya,"Individuals with disabilities, approved charitable organisations that is Organizations established solely for public benefit purposes, Senior Citizens (65 Years and Above), Diplomatic and International Organizations, Certain Business Categories under Presumptive Tax, VAT-Exempt Goods and Services may qualify for tax exemption."
+,
+Who qualifies for tax exemption in Kenya?,"Persons with disabilities, charitable organizations, senior citizens, and certain diplomatic staff may qualify for tax exemptions."
+How can a person with a disability get tax exemption?,Apply through the National Council for Persons with Disabilities (NCPWD) with medical proof and get vetted for a KRA exemption certificate.
+What is the income limit for PWD tax exemption?,"Up to Ksh 150,000 per month or Ksh 1.8 million per year of taxable income can be exempted."
+Are charities exempt from tax in Kenya?,"Yes, registered charitable organizations that engage solely in public benefit activities can apply for income tax exemption."
+How long is a PWD tax exemption valid?,The exemption certificate is valid for 5 years and can be renewed.
+Are pensions taxed in Kenya?,"Pensions are tax-exempt up to Ksh 300,000 annually for persons aged 65 and above. A lump sum of Ksh 600,000 is also tax-free."
+Are international organization employees taxed?,"Some employees of organizations like the UN may be exempt from tax under international agreements, if not locally recruited."
+What goods are VAT exempt in Kenya?,"Educational books, medical supplies, and some basic food items are exempt."
+Can religious institutions apply for tax exemption?,"Yes, if registered as charitable or public benefit organizations, they can apply to KRA for exemption."
+What taxes are businesses exempt from under Presumptive Tax rules?,"Businesses involved in rent, management, or professional services, or incorporated entities, are exempt from Presumptive Tax."
+Is tax exemption automatic for persons with disabilities?,"No, eligible individuals must apply through the NCPWD and receive approval from KRA."
+Can businesses owned by persons with disabilities get tax exemption?,"Yes, if registered and the business income is part of the applicant’s taxable income, it may qualify for exemption."
+Do churches and mosques pay income tax in Kenya?,Not if they are registered as charitable or religious organizations solely engaging in public benefit activities.
+Are NGOs automatically tax exempt?,No. NGOs must apply for exemption and meet the legal and operational requirements defined by KRA.
+Are all senior citizens exempt from paying tax?,Only those aged 65 and above are exempt from paying tax on pensions up to the legally defined limit. Other income sources may still be taxed.
+How do I check if my organization is tax exempt?,You can request a Tax Compliance Certificate from KRA or verify with the Non-Profit Organizations Unit.
+What documents are required for tax exemption application?,"Registration certificates, constitution, audited accounts, activity reports, and proof of public benefit objectives."
+Can a business apply for VAT exemption?,Only if it deals in goods or services listed as VAT-exempt under the VAT Act. Application is needed for formal recognition.
+How often should exemption certificates be renewed?,"Typically every 5 years, or as specified by KRA at the time of issuance."
+Can I be exempted from PAYE as an employee?,"Only if you fall into a legally exempt category like PWDs, and have an exemption certificate from KRA."
+Can a company be taxed less if it hires more interns,"While hiring interns can reduce overall operating costs, it does not automatically qualify a business for tax relief or exemption. The benefit is mostly indirect through reduced payroll obligations."
+,
+What taxes do companies in Kenya pay?,"Companies pay Corporation Tax, VAT (if registered), PAYE for employees, Withholding Tax, and sometimes Excise Duty."
+What's Corporation Tax?,Corporation Tax is a tax on company profits. The standard rate is 30% for resident companies and 37.5% for non-resident companies.
+How can I register my company for taxes in Kenya?,Register on the iTax portal using your company PIN and fill in the taxpayer registration form.
+Do companies have to file annual tax returns?,"Yes. All registered companies must file income tax returns annually, even if they made no profit."
+What happens during a KRA audit?,"KRA examines financial records to ensure correct tax payments. They may review invoices, bank statements, and financial statements."
+How often does KRA audit companies?,"Audits are risk-based but may occur randomly, annually for high-risk businesses, or due to inconsistencies in tax filings."
+What should a company do during a KRA audit?,"Cooperate with the auditors, provide all requested documents, and consult a tax expert or accountant for assistance."
+Are training and intern costs tax deductible?,"Yes, training and internship stipends may be claimed as business expenses if properly documented."
+Do companies have to pay taxes for interns?,"If interns earn below the PAYE threshold (Ksh 24,000/month), no PAYE is due. NHIF and NSSF may still apply."
+How can a company hire interns legally in Kenya?,Through government programs like Ajira or direct recruitment. Companies must comply with labor laws even for interns.
+Can a company be penalized for not filing taxes?,"Yes. Penalties include fines, interest on unpaid taxes, and in severe cases, legal action or closure."
+What documents are required during a KRA audit?,"Financial statements, bank records, VAT invoices, PAYE schedules, withholding tax records, and relevant receipts."
+Are audit reports submitted to KRA?,"Only if KRA requests them or if required during an investigation. However, audited accounts are needed when filing company returns."
+What’s the difference between internal and KRA audits?,Internal audits are done by the company for compliance and performance. KRA audits are done by the tax authority to verify tax accuracy.
+How can a company reduce its tax liability legally?,"By keeping accurate records, claiming all allowable expenses and deductions, and staying compliant with tax laws."
+,
+Are stipends taxed in Kenya?,"Yes. If a stipend is considered income (even if it's not a salary), it may be taxable under PAYE or declared in individual income tax returns."
+Are internship stipends taxable?,"Yes, if the stipend exceeds the monthly tax threshold (Ksh 24,000 as of current brackets), it's subject to PAYE. Below this, it's not taxed."
+What if the intern is unpaid?,"No tax applies if no income is earned. However, any allowances or benefits in kind may still be considered taxable."
+Is a student allowance or research grant taxed?,"If the grant is for education/research and not tied to services provided, it's generally not taxable. But if it's payment for services, it is taxable."
+I work remotely for a foreign company. Should I pay tax in Kenya?,"Yes. Kenyan residents are taxed on worldwide income, so you must declare income earned from abroad."
+How do I declare foreign income to KRA?,"Log in to iTax, file your annual individual income tax return (IT1), and include foreign income in the ""other income"" section."
+Will I pay double tax for foreign income?,"Kenya has Double Taxation Agreements (DTAs) with some countries. If tax was paid abroad, you may get relief in Kenya."
+How is foreign remote income taxed?,It is added to your total income and taxed at normal individual rates. Use exchange rates from CBK for currency conversion.
+What if I am paid via PayPal or Wise?,"You are still required to declare the income as long as you are a Kenyan tax resident, regardless of payment method."
+I am not employed locally—do I still need a KRA PIN?,"Yes. If you earn income (including remotely), you need a KRA PIN to file returns and remain compliant."
+What happens if I don't declare foreign remote income?,"You may face penalties, back taxes, or audits. KRA may detect undeclared income through bank/payment platform reviews."
+,
+Do freelancers in Kenya pay tax?,Yes. Freelancers are considered self-employed and must pay income tax under self-assessment via the iTax system.
+How do freelancers declare their income?,By filing an annual Income Tax – Resident Individual (IT1) return and paying estimated taxes in installments.
+What tax rate applies to freelance income?,"Income is taxed using the PAYE bands. The more you earn, the higher the marginal rate (up to 35% above KES 800,000/month)."
+Are digital nomads taxed in Kenya?,"If they are Kenyan residents or reside in Kenya for over 183 days in a year, they must pay tax on global income."
+I work online and get paid via PayPal. Do I owe taxes?,Yes. The mode of payment does not affect your tax obligation. All income must be declared if you are a tax resident.
+How do digital nomads file taxes in Kenya?,"Log in to iTax and file an IT1 return. Declare foreign earnings, apply correct exchange rate, and pay tax based on KRA bands."
+Are expatriates working in Kenya taxed?,"Yes. If working under a contract in Kenya, expatriates are taxed like locals unless exempted under a tax treaty or diplomatic status."
+What if an expatriate is paid from abroad?,"Still taxable in Kenya if the work is done in Kenya. Residence is based on duration of stay, not salary origin."
+Can I claim foreign tax credits as a freelancer?,"Yes. If the income is taxed abroad and Kenya has a Double Tax Agreement (DTA) with that country, you can claim relief."
+I live in Kenya and freelance for a US client. Do I pay tax here?,"Yes. You must declare and pay tax on that income in Kenya, even if no tax was withheld by the client."
+Are there penalties for not declaring online income?,"Yes. You may face audits, penalties, and interest on unpaid taxes. KRA can trace income through banks and payment platforms."
+How can I reduce my tax as a freelancer?,"Track allowable expenses (e.g., internet, software, rent for office space) and deduct them before calculating taxable income."
+Can I use Turnover Tax (TOT) as a freelancer?,"Only if your annual turnover is between KES 1M and 25M and you’re not in a professional service like law, accounting, or consultancy."
+Is remote work for a foreign company taxed in Kenya?,Yes. Kenyan residents must pay tax on worldwide income even from foreign employers.
+I live in Kenya but bill in USD—how do I convert for KRA?,Use the Central Bank of Kenya (CBK) monthly average rate for the month you received the income.
